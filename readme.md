@@ -40,4 +40,4 @@ For more examples please check demo.html
 <br>
 
 ### Enjoy!
-'Also animeteme was taken'
+Also 'animeteme' was taken
