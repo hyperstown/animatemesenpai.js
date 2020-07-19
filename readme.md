@@ -2,7 +2,7 @@
 
 A simple JavaScript library that allows you to animate elements on scroll.
 
-## **Instalation:**
+## **Installation:**
 Add styles in `<head>`:
 
 ```
