@@ -1,4 +1,4 @@
-# AnimateMe!
+# AnimateMeSenpai!
 
 A simple JavaScript library that allows you to animate elements on scroll.
 
@@ -6,13 +6,13 @@ A simple JavaScript library that allows you to animate elements on scroll.
 Add styles in `<head>`:
 
 ```
-<link rel="stylesheet" href="./animateme.css" />
+<link rel="stylesheet" href="./animatemesenpai.css" />
 ```
 
 Add script before closing `</body>` tag:
 
 ```
-<script src="./animateme.js"></script>
+<script src="./animatemesenpai.js"></script>
 ```
 
 CDN COMMING SOON
@@ -37,3 +37,7 @@ This will make text appear from left side of the screen.
 
 For more examples please check demo.html
 
+<br>
+
+### Enjoy!
+'Also animeteme was taken'

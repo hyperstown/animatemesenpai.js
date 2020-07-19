@@ -1,4 +1,4 @@
-//Animateme is a library that lets you animate elements on scroll.
+//AnimatemeSenpai is a library that lets you animate elements on scroll.
 
 //All elements
 var element_animate_left = document.getElementsByClassName('as-left');
