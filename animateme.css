@@ -1,0 +1,74 @@
+/* animateMe css */
+
+.animate-left {
+    position: relative;
+    animation: animateleft 0.6s;
+}
+
+.animate-right {
+    position: relative;
+    animation: animateright 0.6s;
+}
+
+.animate-top {
+    position: relative;
+    animation: animatetop 0.6s;
+}
+
+.animate-bottom {
+    position: relative;
+    animation: animatebottom 0.6s;
+}
+
+.as-left, .as-right, .as-top, .as-bottom{
+    display: block;
+    visibility: hidden;
+}
+
+@keyframes animateleft {
+    from {
+        left: -220px;
+        opacity: 0
+    }
+
+    to {
+        left: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animateright {
+    from {
+        right: -220px;
+        opacity: 0
+    }
+
+    to {
+        right: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatetop {
+    from {
+        top: -170px;
+        opacity: 0
+    }
+
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatebottom {
+    from {
+        bottom: -100px;
+        opacity: 0
+    }
+
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
